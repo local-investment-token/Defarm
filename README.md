@@ -1,2 +1,2 @@
-# PHUFI
+#DeFarm
 PortHuronUrbanFarmingInitiative
