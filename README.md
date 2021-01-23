@@ -1,2 +1,2 @@
 #DeFarm
-PortHuronUrbanFarmingInitiative
+Decentralized Farm system
